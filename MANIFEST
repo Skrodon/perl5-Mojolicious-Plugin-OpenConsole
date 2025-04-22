@@ -1,0 +1,5 @@
+ChangeLog
+MANIFEST
+Makefile.PL
+README.md
+lib/Mojolicious/Plugin/OpenConsole.pm
